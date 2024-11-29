@@ -1,3 +1,5 @@
+Estimation of Obesity Levels Based on Eating Habits and Physical Condition
+
 The main objective of this study is to estimate the prevalence of obesity by evaluating a dataset that includes food, lifestyle, and health data from individuals in Mexico, Peru, and Colombia. By utilizing Python for data science, this study highlights the use of data preparation, exploratory data analysis (EDA), sophisticated visualizations, and machine learning algorithms.
 
 The dataset, which includes 2111 records and 17 features, covers a variety of characteristics like anthropometric measurements, dietary patterns, and lifestyle decisions. The goal variable, which divides people into seven different categories of obesity Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III is predicted by analyzing these characteristics. The project's main objective is to identify the major causes of obesity and create predictive models that can precisely categorize people into their appropriate obesity levels.
